@@ -33,7 +33,7 @@ export default function HomeScreen({ user, scores, onStartQuiz, onSelectCategory
 
         {/* BANNER */}
         <View style={styles.banner}>
-          <Text style={styles.bannerTitle}>Test Your Knowledge with Quizzes</Text>
+          <Text style={styles.bannerTitle}>Test Your Knowledge with Quizze1111s</Text>
           <Text style={styles.bannerSub}>Take fun quizzes for skill and learn</Text>
 
           <TouchableOpacity style={styles.playBtn} onPress={onStartQuiz}>
